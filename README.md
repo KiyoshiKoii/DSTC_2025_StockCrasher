@@ -54,6 +54,5 @@ Chạy lần lượt các notebook theo thứ tự:
 
 ## 👨‍💻 Nhóm thực hiện  
 
-- Nhóm: [Tên nhóm của bạn]  
-- Thành viên: [Danh sách thành viên]  
-- Liên hệ: [Email nhóm trưởng]  
+- Nhóm: Stock Crasher 
+- Thành viên: Tạ Tuấn Thành, Bùi Quang Vinh, Phi Anh Khôi
